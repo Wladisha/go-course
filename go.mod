@@ -1,3 +1,3 @@
-module github.com/Wladisha/go-course
+module go-course
 
 go 1.24.3
